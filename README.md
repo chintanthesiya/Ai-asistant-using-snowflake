@@ -5,14 +5,31 @@ I enjoy building projects that transform raw data into interactive dashboards an
 
 This project demonstrates how to build a Rule-Based AI Assistant using Snowflake, Snowpark Python, SQL, Pandas, and Streamlit without relying on external AI APIs.
 -----------Dashboard
-![Dashboard](<img width="1037" height="656" alt="Screenshot 2026-06-27 114226" src="https://github.com/user-attachments/assets/cecdba5a-372f-4cea-bb82-a67a061dcb78" />
-)
+## 📸 Project Screenshots
+
+### 📊 Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cecdba5a-372f-4cea-bb82-a67a061dcb78" width="900">
+</p>
+
+---
+
+### 🤖 AI Assistant Chat
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29f7d54d-47e9-4c60-bea2-43d31e00e451" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acac0bba-098c-4455-993a-a582b093d7f0" width="900">
+</p>
+
 
 --------------AI Assistant Chat
-![Chat](<img width="985" height="568" alt="Screenshot 2026-06-27 114335" src="https://github.com/user-attachments/assets/29f7d54d-47e9-4c60-bea2-43d31e00e451" />
-)
-![Chat](<img width="980" height="587" alt="Screenshot 2026-06-27 114401" src="https://github.com/user-attachments/assets/acac0bba-098c-4455-993a-a582b093d7f0" />
-)
+<p align="center"> <img src="https://github.com/user-attachments/assets/29f7d54d-47e9-4c60-bea2-43d31e00e451" width="900"> </p>
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/acac0bba-098c-4455-993a-a582b093d7f0" width="900"> </p>
 🤝 Let's Connect
 
 I'm always open to connecting with fellow developers, data analysts, recruiters, and technology enthusiasts.
